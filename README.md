@@ -7,7 +7,7 @@ Mirza Nikolić
 Damir Todić
 Anesa Čutuna
 
-##Running the Project:
+## Running the Project:
 In order to run this project, you will need to install Ruby. This can be done using the link below: 
 https://www.ruby-lang.org/en/downloads/
 After installing ruby open your terminal and navigate to the location of you .rb file and type in terminal as follows:
